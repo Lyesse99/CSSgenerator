@@ -1,0 +1,30 @@
+
+    .sprite {
+      background-image: url(main.css);
+      background-repeat: no-repeat;
+      display: block;
+    }
+  
+
+
+        .mars {
+          width: 505 px;
+          height: 503 px;
+          padding:  px;
+          background-position: 505 px 0px;
+        }
+      
+        .moon {
+          width: 320 px;
+          height: 320 px;
+          padding:  px;
+          background-position: 825 px 0px;
+        }
+      
+        .soleil {
+          width: 400 px;
+          height: 400 px;
+          padding:  px;
+          background-position: 1225 px 0px;
+        }
+      
